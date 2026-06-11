@@ -1,7 +1,7 @@
 # Multiple-Linear-Regression
 Creating a multiple linear regression with two input variables in C
 
-From the internet: "Use multiple regression when you want to analyze the relationship between a dependent variable and two or more independent variables. Use it for predictive modeling, such as estimating the value of a dependent variable (e.g., house prices) based on multiple factors like size, location, and age". This example uses two independend input variables x1 and x2 (size of house and age of house) to calculate an estimated house price y for a certain house, for which the size and the age is given.
+From the internet: "Use multiple regression when you want to analyze the relationship between a dependent variable and two or more independent variables. Use it for predictive modeling, such as estimating the value of a dependent variable (e.g., house prices) based on multiple factors like size, location, and age". This example uses two independent input variables x1 and x2 (size of house and age of house) to calculate an estimated house price y for a certain house, for which the size and the age is given.
 
 Equations used:
 
